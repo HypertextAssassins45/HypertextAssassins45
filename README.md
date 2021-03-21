@@ -27,11 +27,16 @@ You can click the Preview link to take a look at your changes.
 * 
                 
                 
-**ScreenShot links--**
+**Screenshot links**
 * https://i.postimg.cc/NMzRq7sn/Screenshot-2021-03-21-001334.png 
 * https://i.postimg.cc/6q4n92Tp/Screenshot-2021-03-21-001709.png
+* ![Screenshot 2021-03-21 001334](https://user-images.githubusercontent.com/81004491/111895063-01eb5880-8a36-11eb-8d34-d1937e186c2a.png)
+* ![Screenshot 2021-03-21 001709](https://user-images.githubusercontent.com/81004491/111895073-0b74c080-8a36-11eb-9c4f-c477ac6b7441.png)
+
 
 **Website URL-** https://interactie.web.app
 
 
-**Notes fro the reader-** 
+**Notes for the reader-** 
+
+
